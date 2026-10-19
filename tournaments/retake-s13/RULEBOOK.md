@@ -51,47 +51,312 @@ The organizer publishes the bracket before each stage starts. Every published ve
 
 ## Rules
 
-Full rulebook: [hyped.at/s13rulebook](https://hyped.at/s13rulebook). Organized by Hyped Lda, managed by PEW PEW. Governed by Portuguese law; official language English.
+- **Tournament:** HyperX Retake CS2 - Season 13
+- **Tournament type:** Tier 2 - Open Registration
+- **Registration opens:** 23 September 2026
+- **Registration deadline:** 19 October 2026
+- **Tournament dates:** 29 October - 1 November 2026
+- **Venue:** Teleperformance Lisboa Nations, Av. Infante Dom Henrique 342, 1800-224 Lisboa, Portugal
+- **Entry fee:** €1000 + VAT per team
+- **VRS Seeding:** October 2026
 
-## Seeding
+## Introduction
 
-1. Valve Regional Standings (October 2026 publication).
-2. HLTV ranking, for teams without VRS.
-3. Average FACEIT Elo of the five starters, for teams without VRS or HLTV.
+This document regulates the CS2 competition of HyperX Retake.
 
-A lower criterion never seeds above a higher one. A team keeps a VRS or HLTV ranking only with 3+ players of that roster.
+All participants must read and fully understand these rules. By participating, each individual confirms their acceptance of all rules and guidelines.
 
-## Withdrawals
+The tournament administration has the authority to make decisions in exceptional situations and may choose not to apply specific rules if it believes doing so preserves competitive integrity and fair play.
 
-No refunds after payment. Withdrawing until 19 October keeps VRS points; after that it's a disqualification.
+In cases not covered by this document, the administration has the right to make decisions to protect the tournament's interests.
 
-## Match procedure
+If external factors interfere with the competition, the Organization may alter, end, or adjust the event without taking responsibility for losses or damages.
 
-- Veto starts 30 minutes before the match. More than 15 minutes late is a forfeit.
-- Registered accounts and approved nicknames only; Teamspeak connected; Steam offline.
-- 15 minutes of technical timeout per team.
-- 3 tactical pauses of 30 s per team, +1 in overtime.
-- Round restore only within 60 s after freeze time, with no deaths and no plant.
+These rules are governed by Portuguese law, and the official language for all communication is English.
 
-## Server settings
+## 1. Tournament Overview
 
-Round time 1:55 · Freeze time 20 s · Buy time 20 s · Overtime MR6 with $12,500 · No agent skins.
+The tournament supports team counts from 8 to 16 teams. The final format is determined by the number of confirmed teams after registration closes.
 
-**Map pool:** Ancient, Overpass, Dust II, Inferno, Mirage, Nuke, Anubis.
+### 1.1 8-12 Team Format
 
-## Veto
+For 8 to 12 teams, the tournament is built around an 8-team Main Event. If more than 8 teams are confirmed, a short Play-in Stage is used to qualify the remaining teams into the Main Event.
 
-**BO1:** A ban, B ban, A ban, B ban, A ban, B ban, last map played. Knife for side.
+#### Main Event Structure
 
-**BO3:** A ban, B ban, A pick (B side), B pick (A side), A ban, B ban, last map is the decider. Knife for decider side.
+- 2 groups of 4 teams.
+- GSL-style double-elimination Group Stage.
+- Opener Group Stage match are BO1
+- Elimination & Qualification Stage matches are BO3.
+- Top 3 teams from each group advance to the Playoffs.
+- Group winners advance directly to the Semi-finals.
+- Group 2nd and 3rd placed teams advance to the Quarter-finals.
+- Playoffs are single elimination, with a Third Place Decider.
+- Quarter-finals and Semi-finals are BO3.
+- Grand Final is BO3.
+- Third Place Decider is BO3.
 
-## Integrity
+#### Play-in Overview
 
-No cheats, bug abuse or outside communication. No betting or match-fixing. Sanctions range from warnings to prize reductions, fines and bans.
+| Teams | Play-in | Direct to Main Event | Main Event |
+|---|---|---|---|
+| 8 | None | Seeds 1-8 | 8 teams |
+| 9 | Seed 8 vs Seed 9 | Seeds 1-7 | 8 teams |
+| 10 | Seed 7 vs Seed 10; Seed 8 vs Seed 9 | Seeds 1-6 | 8 teams |
+| 11 | Seeds 6-8 vs Seeds 11-9 | Seeds 1-5 | 8 teams |
+| 12 | Seeds 5-8 vs Seeds 12-9 | Seeds 1-4 | 8 teams |
 
-## Prizes
+### 1.2 13-16 Team Format
 
-Paid on invoice within the quarter after the event, within 90 days of receipt. VAT applies; penalties are deducted.
+For 13 to 16 teams, the tournament uses 4 groups followed by an 8-team Single-Elimination Playoff Bracket.
+
+#### Structure
+
+- Teams are split into 4 groups of 3 or 4 teams.
+- Groups should be balanced by seeding.
+- Groups use a GSL-style format, adapted where needed for 3-team groups.
+- Top 2 teams from each group advance to the Playoffs.
+- Playoffs are single elimination, with a Third Place Decider.
+- Opener Group Stage match are BO1
+- Elimination & Qualification Stage matches are BO3
+
+#### Group Distribution
+
+| Teams | Group Distribution | Playoff Qualification | Playoffs |
+|---|---|---|---|
+| 13 | 1 group of 4 + 3 groups of 3 | Top 2 from each group | 8-team single elimination |
+| 14 | 2 groups of 4 + 2 groups of 3 | Top 2 from each group | 8-team single elimination |
+| 15 | 3 groups of 4 + 1 group of 3 | Top 2 from each group | 8-team single elimination |
+| 16 | 4 groups of 4 | Top 2 from each group | 8-team single elimination |
+
+### 1.3 Prize Pool
+
+The total prize pool depends on the number of confirmed teams.
+
+The base prize pool is €7,500 for 8 confirmed teams, increasing by €937.50 per additional confirmed team up to a maximum of €15,000 for 16 confirmed teams.
+
+The final prize distribution must be confirmed by the Organization before the start of the tournament.
+
+#### Prize Distribution
+
+| Place | Prize Pool Share |
+|---|---|
+| 1st | 55% |
+| 2nd | 25% |
+| 3rd | 15% |
+| 4th | 5% |
+
+| Teams | Format band | Total prize pool | Prize distribution / notes |
+|---|---|---|---|
+| 8 | 8-12 Team Format | €7,500.00 | Base prize pool |
+| 9 | 8-12 Team Format | €8,437.50 | + €937.50 per additional confirmed team |
+| 10 | 8-12 Team Format | €9,375.00 | + €937.50 per additional confirmed team |
+| 11 | 8-12 Team Format | €10,312.50 | + €937.50 per additional confirmed team |
+| 12 | 8-12 Team Format | €11,250.00 | + €937.50 per additional confirmed team |
+| 13 | 13-16 Team Format | €12,187.50 | + €937.50 per additional confirmed team |
+| 14 | 13-16 Team Format | €13,125.00 | + €937.50 per additional confirmed team |
+| 15 | 13-16 Team Format | €14,062.50 | + €937.50 per additional confirmed team |
+| 16 | 13-16 Team Format | €15,000.00 | + €937.50 per additional confirmed team |
+
+### 1.4 Registration and VRS Reference
+
+The tournament uses Open Registration. All available slots will be assigned through the registration process, subject to eligibility checks and any official seeding criteria published by the Organization.
+
+For any competition reference where VRS applies, the October 2026 VRS will be used.
+
+If a team withdraws after payment is confirmed, refunds will not be issued.
+
+Teams may withdraw from the tournament until 19 October without losing any VRS points. After this date, any withdrawal will result in disqualification from the tournament.
+
+The Organization will not cover travel or accommodation expenses unless explicitly stated otherwise.
+
+Teams will be seeded according to the following hierarchy:
+
+1. Valve Regional Standings (VRS) - Teams with an eligible September 2026 VRS ranking will be seeded according to their official VRS position.
+2. HLTV Team Ranking - Teams without an eligible VRS ranking will be seeded according to their position in the latest HLTV Team Ranking available at the seeding cut-off.
+3. FACEIT Elo - Teams without an eligible VRS or HLTV ranking will be seeded according to the average FACEIT Elo of the five players registered in their starting lineup.
+
+Teams seeded under a lower-priority criterion cannot be seeded above teams eligible under a higher-priority criterion.
+
+The Organization will record the VRS ranking, HLTV ranking and FACEIT Elo values at the official seeding cut-off. These values will be used to determine the final tournament seeding.
+
+A team may only inherit a VRS or HLTV ranking when the registered tournament roster retains at least three players from the roster associated with that ranking. Otherwise, the team will be evaluated using the next applicable seeding criterion.
+
+## 2. Definitions
+
+### 2.1 Organization and Administration
+
+This competition is organized by Hyped Lda and managed by PEW PEW, responsible for production and management of the competition.
+
+"Organization" refers to Hyped Lda, PEW PEW, or the HyperX Retake Circuit.
+
+"Administration" refers to individuals or groups employed by the Organization to manage the competition. These are identified as Competition Director and Competition Administrator in the relevant channels.
+
+### 2.2 Participant
+
+A participant is any person registered by a team, regardless of their role, including player, coach, manager, or other staff.
+
+### 2.3 Team
+
+A team consists of:
+
+- Main players
+- Substitute player(s)
+- Coach
+- Manager
+
+Each team must possess a Tax Identification Number (VAT ID).
+
+### 2.4 Ready to Play
+
+A participant is considered ready to play when they are connected to the server and have met all pre-game requirements.
+
+## 3. General Rules
+
+### 3.1 Participation Eligibility
+
+- All participants must have valid CS2, Steam, and FACEIT accounts.
+- The minimum age to participate is 16.
+- Each team must have a minimum of 5 active players.
+- Each team may register a maximum of 2 substitute players.
+- A coach may act as a substitute if needed.
+
+### 3.2 Restrictions
+
+- Teams from every region are eligible to play.
+
+### 3.3 Broadcast Rights
+
+Broadcast rights belong exclusively to the Organization and may be granted to third parties.
+
+### 3.4 Communication
+
+- Email: for administrative matters.
+- Discord: for daily communication and match instructions.
+- Teamspeak: for in-game communication.
+
+### 3.5 Sponsorships
+
+Sponsorships related to the following categories are prohibited:
+
+- Pornography
+- Drugs
+- Alcohol
+- Tobacco
+- Weapons
+
+### 3.6 Prize Payment
+
+- Payment will be made upon invoice issuance within the quarter of the tournament's conclusion.
+- The invoice will be paid within 90 days after receipt is provided.
+- All prizes are subject to VAT at the legal rate.
+- Penalties incurred during the event will be deducted from the final prize amount.
+
+## 4. Match Procedures
+
+### 4.1 Match Start
+
+- Veto must begin 30 minutes before the match, except where the Organization defines another procedure.
+- Delays of more than 15 minutes will result in a forfeit.
+
+### 4.2 Pre-Game Requirements
+
+- Each participant must use their registered account.
+- The approved nickname must be used.
+- Participants must be connected to the Organization's Teamspeak.
+- Players must keep Steam in offline mode during matches.
+
+### 4.3 Technical Issues
+
+Each team has a limit of 15 minutes of technical timeout.
+
+### 4.4 Server Settings
+
+- Round Time: 1:55 minutes
+- Freeze Time: 20 seconds
+- Buy Time: 20 seconds
+- Overtime Start Money: $12,500
+- Overtime Mode: MR6
+- Map Pool: Ancient, Overpass, Dust II, Inferno, Mirage, Nuke, Anubis
+- Agent Skins are not allowed
+
+### 4.5 Veto Procedures
+
+#### BO1 Matches
+
+1. Team A bans 1 map
+2. Team B bans 1 map
+3. Team A bans 1 map
+4. Team B bans 1 map
+5. Team A bans 1 map
+6. Team B bans 1 map
+7. The remaining map is played
+8. Knife round determines starting side
+
+#### BO3 Matches
+
+1. Team A bans 1 map
+2. Team B bans 1 map
+3. Team A picks 1 map
+4. Team B chooses starting side
+5. Team B picks 1 map
+6. Team A chooses starting side
+7. Team A bans 1 map
+8. Team B bans 1 map
+9. The remaining map is the decider, if needed
+10. Knife round determines side for decider map
+
+### 4.6 Round Restore
+
+Rounds can only be restored if all of the following apply:
+
+- No more than 60 seconds have passed since freeze time ended.
+- No player has died.
+- The bomb has not been planted.
+
+### 4.7 Tactical Pauses
+
+Each team has 3 tactical pauses of 30 seconds each, with 1 additional pause granted if the match goes into overtime.
+
+## 5. Competitive Integrity
+
+### 5.1 Code of Conduct
+
+All participants must maintain mutual respect and adhere to fair play.
+
+### 5.2 Prohibitions
+
+- Use of cheats or illegal software.
+- Exploiting bugs or glitches.
+- Communicating with external sources during matches.
+
+### 5.3 Betting
+
+Participants are prohibited from engaging in betting or match-fixing.
+
+### 5.4 Match Fixing
+
+Bribery or attempts to pressure administrators will result in immediate disqualification and forfeiture of prizes.
+
+### 5.5 Sanctions and Penalties
+
+Sanctions are penalties applied for rule violations and may include:
+
+- Verbal warning
+- Written warning
+- Formal penalties
+
+Penalties may include:
+
+- Up to 100% reduction of prize money
+- Financial fines
+- Ban from the current or future tournaments
+
+Failure to comply with these regulations may result in severe sanctions, as determined by the Administration.
+
+## 6. Official Platforms
+
+- Support: competition@pewpew.pt
 
 ## Requirements
 
@@ -108,8 +373,6 @@ Paid on invoice within the quarter after the event, within 90 days of receipt. V
 - Communicating with external sources during matches.
 - Betting on or fixing matches.
 - Bribing or pressuring administrators.
-
-Full rulebook (PDF or link): https://hyped.at/s13rulebook
 
 ---
 
