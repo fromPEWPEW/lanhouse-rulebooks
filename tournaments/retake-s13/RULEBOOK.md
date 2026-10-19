@@ -37,9 +37,9 @@ The organizer publishes the bracket before each stage starts. Every published ve
 
 ## Registration and payment
 
-- Entry fee: 1230 € (1000 € + 23% VAT) per team
+- Entry fee: €1,230 (€1,000 + 23% VAT) per team
 - Payment window: 48 hours after registering. Unpaid registrations lose their slot and the next team on the waiting list is invited.
-- Prize pool: 15 000 €
+- Prize pool: €15,000
 - Slots are given by submission time, recorded to the second in a public, hash-chained ledger.
 
 ## Maps and match rules
