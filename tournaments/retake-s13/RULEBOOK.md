@@ -14,7 +14,7 @@ Times in Europe/Lisbon, with UTC in brackets.
 
 - Announced: 16 Sept 2026, 11:00 (2026-09-16 10:00 UTC)
 - Registration opens: 23 Sept 2026, 14:00 (2026-09-23 13:00 UTC)
-- Registration closes: 19 Oct 2026, 22:59 (2026-10-19 21:59 UTC)
+- Registration closes: 20 Oct 2026, 22:59 (2026-10-20 21:59 UTC)
 - Withdrawal deadline: until the tournament starts. Until then a team can withdraw itself; after it, only the organizer can withdraw a team and it is recorded as a late withdrawal.
 - Main event: 29 Oct 2026, 09:00 (2026-10-29 09:00 UTC)
 
