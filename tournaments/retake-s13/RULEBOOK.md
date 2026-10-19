@@ -2,6 +2,8 @@
 
 - Organizer: Hyped × PEW PEW
 - Classification: VRS Ranked · Tier 2
+- VRS region: Europe
+- Visa region: Schengen
 - Where: TP Lisboa Nations, Av. Infante Dom Henrique 342, 1800-224 Lisboa
 - Tournament page: https://lanhouse.gg/t/retake-s13
 - Transparency (versions, registration ledger, bracket versions, payouts): https://lanhouse.gg/t/retake-s13/transparency
@@ -29,9 +31,7 @@ VRS Tier 2 timeline: the tournament is announced at least 2 weeks before the mai
 
 ## Seeding
 
-Teams are seeded by strength, in this order: Valve Regional Standings (VRS), then the HLTV world ranking, then the average FACEIT Elo of the starting five, then registration order. A lower criterion never places a team above one ranked by a higher criterion.
-
-Rosters without a Global VRS rank never seed above rosters that have one (Valve 3.4.3).
+Teams are seeded by Valve Regional Standings (VRS), then the HLTV world ranking, then the average FACEIT Elo of the five starting players, then registration order. A team seeded by a lower criterion is never placed above a team seeded by a higher one. A team only inherits a VRS or HLTV ranking when its registered roster keeps at least three players from the roster that earned it. Rosters without a Global VRS rank never seed above rosters that have one (Valve 3.4.3). Seeds cannot be set by hand.
 
 The organizer publishes the bracket before each stage starts. Every published version, and the reason for any change, is listed on the transparency page.
 
